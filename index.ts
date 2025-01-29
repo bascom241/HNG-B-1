@@ -26,7 +26,7 @@ const corsOptions = {
   
     const response = {
         email:"abdulbasitabdulwahab21@gmail.com",
-        current_Date: new Date().toISOString(),
+        current_datetime: new Date().toISOString(),
         gitHub_Url:"https://github.com/bascom241/"
     }
 
