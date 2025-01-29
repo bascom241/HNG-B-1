@@ -46,7 +46,7 @@ The response is returned in JSON format with the following structure:
 ```json
 {
     "email": "abdulbasitabdulwahab21@gmail.com",
-    "current_Date": "2025-01-30T09:30:00Z",
+    "current_datetime": "2025-01-30T09:30:00Z",
     "gitHub_Url": "https://github.com/bascom241/"
 }
 ```
